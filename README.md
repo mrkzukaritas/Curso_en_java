@@ -43,7 +43,7 @@ El proyecto contiene tres clases principales dentro del paquete `Actividad`:
 ---
 
 ## 🧩 Estructura del Proyecto
-
+```text
 Curso_con_10_estudiantes/
 │
 ├── src/
@@ -56,7 +56,7 @@ Curso_con_10_estudiantes/
 ├── .project
 ├── LICENSE
 └── README.md
-
+```
 ---
 
 ## ⚙️ Requisitos

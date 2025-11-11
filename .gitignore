@@ -1,0 +1,14 @@
+# Compiled class files
+*.class
+
+# Eclipse files
+.settings/
+.classpath
+.project
+
+# Build directories
+bin/
+out/
+
+# Misc
+.DS_Store
